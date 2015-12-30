@@ -1,4 +1,4 @@
-## Laravel 5.2 Moduler Approch
+## Laravel 5.2 Moduler Approch and Multi Theming System
 
 A Complete Laravel Module System by Shipu Ahamed Based on two below link :
 
@@ -7,6 +7,13 @@ A Complete Laravel Module System by Shipu Ahamed Based on two below link :
 2. [Beautiful Laravel Package](https://github.com/Artem-Schander/L5Modular).
 
 Details on [This Blog](http://nahid.co/diary/read/23).
+
+
+## Multi Theme for frontend and backend in Laravel
+
+Separate use for front-end and back-end theme in laravel.
+
+Details on [This Blog](http://nahid.co/diary/read/25).
 
 
 ## Installation Steps
