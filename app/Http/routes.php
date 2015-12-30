@@ -14,3 +14,11 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('backend', function () {
+    return view('backend::layouts.backend');
+});
+
+Route::get('frontend', function () {
+    return view('frontend::layouts.frontend');
+});
